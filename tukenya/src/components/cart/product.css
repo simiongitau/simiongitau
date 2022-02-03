@@ -1,0 +1,9 @@
+.btn-black {
+  background-color: aqua;
+}
+.fas {
+  background-color: blanchedalmond;
+}
+.fas:hover {
+  cursor: pointer;
+}

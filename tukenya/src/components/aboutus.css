@@ -1,0 +1,14 @@
+.image {
+  display: flex;
+  gap: 30px;
+}
+.information {
+  margin-top: 10px;
+  display: flex;
+  /* margin-bottom: 10px; */
+  gap: 25px;
+}
+
+.aboutusx {
+  background-color: beige;
+}

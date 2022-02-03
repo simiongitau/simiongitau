@@ -1,0 +1,19 @@
+.gap-5 {
+  margin: 5% 30%;
+}
+
+.btn-primary {
+  height: 100px;
+  width: 150px;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.header {
+  /* margin-top: 130px; */
+  font-size: 25px;
+  font-weight: bold;
+}
+.containert {
+  background-color: azure;
+}

@@ -1,0 +1,20 @@
+.m-3 li {
+  list-style: none;
+  margin-bottom: 30px;
+  font-size: 20px;
+  margin-top: 5px;
+}
+span {
+  color: rgb(5, 97, 235);
+}
+.account {
+  color: red;
+}
+h4 {
+  color: blue;
+  font-family: initial;
+}
+.create {
+  background-color: azure;
+  margin-top: 0;
+}

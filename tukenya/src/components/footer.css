@@ -1,0 +1,36 @@
+.div7 {
+  /* background-color: aqua; */
+  height: 200px;
+  width: 300px;
+  margin-top: 50px;
+}
+
+.div9 {
+  height: 200px;
+  width: 300px;
+  margin-top: 50px;
+}
+.well {
+  /* margin-top: 150px; */
+  height: 250px;
+  background-color: rgb(91, 168, 28);
+  display: flex;
+  justify-content: space-around;
+  position: sticky;
+  margin-bottom: 0;
+  z-index: 100;
+  width: 100%;
+  /* padding-top: 100px; */
+}
+h4 {
+  color: aliceblue;
+}
+.div9 ul li {
+  list-style: none;
+  color: aliceblue;
+}
+
+.div7 ul li {
+  list-style: none;
+  color: aliceblue;
+}

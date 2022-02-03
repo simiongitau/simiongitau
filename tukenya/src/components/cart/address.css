@@ -1,0 +1,53 @@
+.main {
+  /* background-color: blue; */
+  margin-top: 80px;
+}
+.section {
+  display: flex;
+  /* background-color: brown; */
+  justify-content: space-between;
+}
+/* .section div {
+  height: 150px;
+} */
+.section1 input {
+  margin-top: 30px;
+  width: 250px;
+  /* background-color: aqua; */
+}
+.section2 input {
+  margin-top: 30px;
+  margin-left: 0px;
+  /* background-color: aqua; */
+}
+.payment {
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 25px;
+}
+.payment:hover {
+  background-color: #b8ca50;
+  color: aqua;
+}
+.mt-3 {
+  cursor: pointer;
+}
+.label1 {
+  margin-left: 30px;
+}
+.label2 {
+  margin-left: 50px;
+}
+.label3 {
+  margin-left: 30px;
+}
+.label4 {
+  margin-left: 75px;
+}
+.label5 {
+  margin-left: 75px;
+}
+
+.label6 {
+  margin-left: 75px;
+}

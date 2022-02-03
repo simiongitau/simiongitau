@@ -1,0 +1,11 @@
+.cart-btn {
+  background-color: #4393c9;
+  color: #ffffff;
+}
+.cart-btn:hover {
+  cursor: pointer;
+  background-color: #bfd366;
+}
+/* .FONT {
+  background-color: #bfd366;
+} */

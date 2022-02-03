@@ -1,0 +1,26 @@
+/* .orderinfo   {
+  float: right;
+} */
+/* .data {
+  display: flex;
+  gap: 70px;
+}
+.topic {
+  display: flex;
+  gap: 100px;
+} */
+
+.table1 {
+  width: 40%;
+}
+.table2 {
+  width: 40%;
+}
+.table {
+  width: 80%;
+  margin-left: 40px;
+}
+.orders {
+  background-color: azure;
+  height: 450px;
+}
